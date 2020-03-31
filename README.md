@@ -13,8 +13,8 @@ A How-to-guide for retrofitting your 3D Printer into a ventilator
 `ls /dev/cu.*`
 
 ## Example of Opening The Serial Port And Setting Baud Rate on Mac Using Bash (Run this before sending G-Code)
-```exec 3<> /dev/cu.usbmodem621
-stty -f /dev/cu.usbmodem621 115200
+```
+exec 3<> /dev/cu.usbmodem621
 stty -f /dev/cu.usbmodem621 115200
 stty -f /dev/cu.usbmodem621 speed
 ```
