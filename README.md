@@ -2,7 +2,7 @@
 A How-to-guide for retrofitting your 3D Printer into a ventilator 
 
 # YouTube
-http://embedyoutube.org
+[![Getting Started Developing Software to Control Your 3D Printer / Retrofitting It into a Ventilator](http://img.youtube.com/vi/MDHvyS3sDsQ/0.jpg)](http://www.youtube.com/watch?v=MDHvyS3sDsQ "Getting Started Developing Software to Control Your 3D Printer / Retrofitting It into a Ventilator")
 
 # Getting Started Guide
 
